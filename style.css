@@ -26,3 +26,13 @@
     color: white;
     background-color: #000;
 }
+
+form .btn{
+    color: #fff;
+  background-color: #754ffe;
+  border-color: #754ffe;
+}
+
+.card{
+    width: 20em;
+}
