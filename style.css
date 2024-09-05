@@ -1,0 +1,22 @@
+/* button color*/
+
+:root{
+    --btn-bg-color:#754ffe;
+}
+.btn-sign :last-child{
+    color: white;
+    background-color:var(--btn-bg-color) ;
+    
+}
+
+.nav-link .bi-three-dots a:hover{
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f1f1f1;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+      }
+      
+}
